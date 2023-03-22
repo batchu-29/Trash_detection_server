@@ -1,0 +1,1 @@
+mongodb+srv://pranav:pranav@cluster0.7etg9.mongodb.net/?retryWrites=true&w=majority
